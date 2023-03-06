@@ -5,7 +5,7 @@
  * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
-const USER_CONFIG = {
+const USER_CONFIG = {oLSAw5mW1OW64V79MjkXIy0olGGM
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx5f06d38a787ad93f',
