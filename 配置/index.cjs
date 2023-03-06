@@ -5,7 +5,7 @@
  * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
  * 自行添加属性，以支持更多个性化功能
  */
-const USER_CONFIG = {oLSAw5mW1OW64V79MjkXIy0olGGM
+const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx5f06d38a787ad93f',
@@ -21,9 +21,9 @@ const USER_CONFIG = {oLSAw5mW1OW64V79MjkXIy0olGGM
       // 想要发送的人的名字
       name: '溪溪',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oLSAw5mW1OW64V79MjkXIy0olGGM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'IQlt5qEniqk6oZEH39gU6GbA9o5T5XilMz_iWqQHF5c',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -51,13 +51,13 @@ const USER_CONFIG = {oLSAw5mW1OW64V79MjkXIy0olGGM
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'IQlt5qEniqk6oZEH39gU6GbA9o5T5XilMz_iWqQHF5c',
+  CALLBACK_TEMPLATE_ID: '',
 
   CALLBACK_USERS: [
     {
-      name: '溪溪',
+      name: '',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oLSAw5mW1OW64V79MjkXIy0olGGM',
+      id: '',
     }
   ],
 
